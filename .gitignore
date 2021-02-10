@@ -1,3 +1,9 @@
+# Mac and IED env
+.idea
+*.iws
+*.ipr
+*.iml
+*.DS_Store
 # Binaries for programs and plugins
 *.exe
 *.exe~
